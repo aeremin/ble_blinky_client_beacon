@@ -1,0 +1,10 @@
+Output/
+*.emSession
+*.map
+*.d
+*.o
+*.elf
+!*.xml
+*.pyc
+.vscode/ipch/
+*.jlink
